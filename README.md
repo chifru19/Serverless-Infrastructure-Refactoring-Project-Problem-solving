@@ -1,7 +1,7 @@
 # 🛠️ Git Workflow & Troubleshooting Case Study
 **Project:** Publishing a Local Infrastructure Project to GitHub  
 **Engineer:** Frank Fru
-[Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](aws_web_%20architecture.drawio.png)
 ---
 
 ## 1. Overview & Challenge 🚩
