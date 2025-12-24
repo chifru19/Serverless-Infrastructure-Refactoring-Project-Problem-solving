@@ -1,0 +1,10 @@
+# DIAGNOSTIC LOG: GIT PUSH FAILURE ANALYSIS
+
+$ git push origin main
+fatal: repository 'https://github.com/chifru19/secure-url-shortener-tf' not found
+
+$ git add .
+fatal: unable to create '/Users/frank/project/.git/index.lock': File exists.
+
+$ git commit -m "Initial commit"
+error: src refspec main does not match any
